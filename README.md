@@ -44,7 +44,7 @@ The prototype focuses deeply on **Feature 1 (Crop Health Monitoring)** and **Fea
 
 ---
 
-### ⚡ Feature 5: Edge AI Processing Benchmark & Telemetry
+## ⚡ Feature 5: Edge AI Processing Benchmark & Telemetry
 * **Why Edge AI for Indian Agriculture?** Smallholder farms in rural India often suffer from zero or intermittent 4G/5G cellular connectivity. Cloud-only AI models fail in remote fields.
 * **Edge vs. Cloud Live Telemetry:**
   * **⚡ Edge TPU Mode (Offline):** `14.2 ms Latency` | `68 FPS` | `0 KB Data Cost` | `4.2 MB Footprint`
@@ -54,7 +54,7 @@ The prototype focuses deeply on **Feature 1 (Crop Health Monitoring)** and **Fea
 
 ---
 
-### 📢 Integrated Feature 6: Farmer Advisory System
+## 📢 Integrated Feature 6: Farmer Advisory System
 * **Targeted Interventions over Blanket Spraying:** Rather than recommending high-volume blanket pesticides, the advisory system delivers precise, 3-tier remedies for the specific pathogen identified:
   1. **Organic Bio-Remedy:** e.g., Neem Extract (5ml/L) + Trichoderma viride.
   2. **Targeted Chemical Spray:** e.g., Mancozeb 75% WP @ 2g/L.
@@ -76,7 +76,7 @@ Open your browser at: **`http://localhost:3000/`**
 
 ---
 
-### 2. Recommended 3-Minute Presentation Pitch Flow
+## 2. Recommended 3-Minute Presentation Pitch Flow
 1. **Introduction (30s):** Show the header badge highlighting the SIH 2026 problem statement. Explain that your team built an offline-first Edge AI system for precision agriculture.
 2. **Crop Health Scanning Demo (1 min):**
    - Click through the PlantVillage presets (Potato Late Blight, Tomato Curl Virus, Healthy Rice).
@@ -108,4 +108,9 @@ project-pprototype/
 ├── package.json                   # Dependencies (React, Lucide icons, Vite)
 ├── vite.config.js                 # Vite server configuration
 └── README.md                      # This SIH alignment document
+```           # Vite server configuration
+└── README.md                      # This SIH alignment document
 ```
+=======
+# project-prototype
+>>>>>>> 4246256726a5dc86f4b61181d0e563e02ebe6664
